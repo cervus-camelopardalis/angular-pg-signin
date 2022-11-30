@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+}
+
+body { 
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+/* Green snackbar */
+.my-green-snackbar {
+    color: white;
+    background-color: green;
+}
+
+.my-green-snackbar span {
+    color: white;
+}
+
+/* Red snackbar */
+.my-red-snackbar {
+    color: white;
+    background-color: darkred;
+}
+
+.my-red-snackbar span {
+    color: white;
+}
